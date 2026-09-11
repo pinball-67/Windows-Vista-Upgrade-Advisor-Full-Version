@@ -237,4 +237,4 @@ This repository serves as the official landing page for Windows Vista Upgrade Ad
 **Get the most recent version of Windows Vista Upgrade Advisor today!**
 
 ---
-**Last updated:** 2026-09-11 18:11:36 UTC
+**Last updated:** 2026-09-11 21:33:14 UTC
